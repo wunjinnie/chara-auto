@@ -1,0 +1,5 @@
+{
+  "name": "MV Anime Director AI",
+  "description": "Generate a complete music video concept from song lyrics. This app helps you define a main character with an AI-generated image, outline a video concept (aesthetic, story), and create a 20-scene storyboard with corresponding thumbnails.",
+  "requestFramePermissions": []
+}
